@@ -1,4 +1,4 @@
-# Weather-App is a simple GUI application that works API data fetched from the openweathermap free current weather API subscription.
+# Weather-App is a simple GUI application that works with API data, fetched from the openweathermap free current weather API subscription.
 Features of the weather APP
 - Can check current weather of over 200,000 cities around the globe with just city name.
 - Can enter the city name with audio command.
